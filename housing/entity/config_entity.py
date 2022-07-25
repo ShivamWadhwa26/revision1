@@ -1,3 +1,4 @@
+#input of each component
 from collections import namedtuple
 
 
